@@ -1,12 +1,13 @@
-package com.example.newsbreezeapp
+package com.example.newsbreezeapp.viewmodel
 
-import android.util.Log
 import androidx.lifecycle.*
-import kotlinx.coroutines.Dispatchers
+import com.example.newsbreezeapp.Resource
+import com.example.newsbreezeapp.ResponseModel
+import com.example.newsbreezeapp.repository.NewsRepository
 import kotlinx.coroutines.launch
 
 class NewsViewModel:ViewModel() {
-    val repository =NewsRepository()
+    val repository = NewsRepository()
     val searchNews: MutableLiveData<Resource<ResponseModel>> = MutableLiveData()
     fun getMyNewsList(q:String)=viewModelScope.launch {
     val result =repository.getNewsList(q)

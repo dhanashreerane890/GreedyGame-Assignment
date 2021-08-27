@@ -1,5 +1,6 @@
-package com.example.newsbreezeapp
+package com.example.newsbreezeapp.repository
 
+import com.example.newsbreezeapp.*
 
 
 class NewsRepository {
