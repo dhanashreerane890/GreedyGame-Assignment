@@ -1,8 +1,4 @@
-![Screenshot_20210827-174240_NewsBreezeApp](https://user-images.githubusercontent.com/75352507/131126144-f435e114-4641-4b02-acce-d5a136713b70.jpg)
-![Screenshot_20210827-174222_NewsBreezeApp](https://user-images.githubusercontent.com/75352507/131126171-c1dfa8a1-0d58-43fe-bd9a-81a573ca0480.jpg)
-![Screenshot_20210827-174214_NewsBreezeApp](https://user-images.githubusercontent.com/75352507/131126208-1c28a510-523a-4efe-b200-0b56166b1add.jpg)
-![Screenshot_20210827-174315_NewsBreezeApp](https://user-images.githubusercontent.com/75352507/131126239-9bd5189d-12ad-4901-8c64-bc87ca563135.jpg)
-![Screenshot_20210827-174303_NewsBreezeApp](https://user-images.githubusercontent.com/75352507/131126262-223d787c-8494-4f8f-8fc1-08ab2517e384.jpg)
+
 # News Breeze 📱
 An app that provides latest news items as well as important events & happenings from around the globe published digitally.
 
