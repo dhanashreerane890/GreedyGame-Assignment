@@ -17,7 +17,8 @@ An app that provides latest news items as well as important events & happenings 
 
 <br>
 
-
-
+## Working video of App 🌟
+see video :
+https://drive.google.com/drive/folders/1QXjuT3SR3Kx98_go9cT8P5kquDGGynrM?usp=sharing
 
 
