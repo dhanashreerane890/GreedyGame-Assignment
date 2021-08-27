@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/_20sdp"
         android:layout_marginTop="@dimen/_30sdp"
+        android:textColor="@color/black"
         android:layout_marginBottom="0dp"
         android:text="News Breeze"
         android:textSize="@dimen/_25sdp"
